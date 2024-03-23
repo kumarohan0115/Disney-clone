@@ -1,7 +1,7 @@
 # Disneyplus Clone
 This is a clone web app of Disneyplay
 
-### [Link to deployed project](https://disneyplus-clone-fa262.web.app/home)
+### [Link to deployed project](https://disneyplus-clone-fb3f1.firebaseapp.com)
 ## Technologies Used
 * ReactJs
 * Firebase
